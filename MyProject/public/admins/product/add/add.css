@@ -1,0 +1,6 @@
+.select2-selection__choice {
+    background-color: black !important;
+}
+.select2-selection__choice__display {
+    padding: 5px 10px !important;
+}
